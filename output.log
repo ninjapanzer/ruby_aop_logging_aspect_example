@@ -1,0 +1,4 @@
+I, [2023-04-28T07:00:06.918851 #9240]  INFO -- : operation, do_not_index | {:state=>"Before State"}
+I, [2023-04-28T07:00:06.918895 #9240]  INFO -- : operation | hi
+I, [2023-04-28T07:00:06.918916 #9240]  INFO -- : operation, do_not_index | {:state=>"After State"}
+I, [2023-04-28T07:00:06.918928 #9240]  INFO -- : operation | byebye
